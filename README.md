@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **My Portfolio**
 
-- 🌱 I’m currently learning **React, C++, Ethical Hacking, Rails, Android Compose**
+- 🌱 I’m currently learning **Go ,Python**
 
-- 👯 I’m looking to collaborate on [My Mediasoup Record Example](https://github.com/ethand91/mediasoup3-record-demo)
+- 👯 I’m looking to collaborate on...
 
-- 🤝 I’m looking for help with [My Mediasoup iOS Framework](https://github.com/ethand91/mediasoup-ios-client)
+- 🤝 I’m looking for help with ....
 
-- 👨‍💻 All of my projects are available at [https://github.com/ethand91](https://github.com/ethand91)
+- 👨‍💻 All of my projects are available at [https://github.com/paulosud08](https://github.com/paulosud08)
 
 - 📝 I regularly write articles on [https://dev.to/ethand91](https://dev.to/ethand91)
 
