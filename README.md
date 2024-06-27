@@ -24,4 +24,3 @@
 - 😺 View my site at []()
 
 
-<p><a href="https://www.buymeacoffee.com/ethand9999"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ethand9999" /></a></p><br><br>
