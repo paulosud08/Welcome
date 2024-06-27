@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/paulosud08](https://github.com/paulosud08)
 
-- 📝 I regularly write articles on [https://dev.to/ethand91](https://dev.to/ethand91)
+- 📝 I regularly write articles on [url](url)
 
 - 💬 Ask me about **Cloud Solutions, IaC, Kubernetes**
 
