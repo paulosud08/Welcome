@@ -17,7 +17,7 @@
 
 ⚡ Fun fact: I'm passionate about Guitar and technology!.
 
-😺 Visit my LinkedIn [https://www.linkedin.com/in/paulosud08/].
+😺 Visit my LinkedIn https://www.linkedin.com/in/paulosud08.
 
 
 
