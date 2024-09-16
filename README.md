@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on...
 
-- 🤝 I’m looking for help with ....
-
 - 👨‍💻 All of my projects are available at [https://github.com/paulosud08](https://github.com/paulosud08)
 
 - 📝 I regularly write articles on [url](url)
