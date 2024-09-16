@@ -9,7 +9,7 @@
 
 👯 I’m looking to collaborate on open-source DevOps projects.
 
-👨‍💻 Check out all of my projects at My GitHub.[https://github.com/paulosud08]
+👨‍💻 Check out all of my projects at My [GitHub.https://github.com/paulosud08]
 
 📝 I regularly share insights on [https://dev.to/paulosud08].
 
