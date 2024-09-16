@@ -5,19 +5,19 @@
 
 🔭 I’m currently working on my personal portfolio.
 
-🌱 I’m currently learning Go and Python.
+🌱 I’m currently learning Go and Python.Terrafrom and Ansible.Docker and Kubernetes.
 
 👯 I’m looking to collaborate on open-source DevOps projects.
 
-👨‍💻 Check out all of my projects at My [GitHub.https://github.com/paulosud08]
+👨‍💻 Check out all of my projects at My GitHub👉 https://github.com/paulosud08
 
-📝 I regularly share insights on [https://dev.to/paulosud08].
+📝 I regularly share insights on https://dev.to/paulosud08.
 
 💬 Feel free to ask me about Cloud Solutions, IaC, and Kubernetes.
 
 ⚡ Fun fact: I'm passionate about Guitar and technology!.
 
-😺 Visit my LinkedIn https://www.linkedin.com/in/paulosud08.
+😺 Visit my LinkedIn 👉 https://www.linkedin.com/in/paulosud08.
 
 
 
